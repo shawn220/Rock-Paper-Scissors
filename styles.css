@@ -1,0 +1,15 @@
+.userChoice button {
+  background-color: greenyellow;
+  font-size: 30px;
+  padding: 1.5rem 3rem;
+  border-radius: 30%;
+}
+
+#reset {
+  background-color: red;
+  color: aliceblue;
+  font-size: 30px;
+  margin-top: 1rem;
+  padding: 1.5rem 3rem;
+  border-radius: 30%;
+}
